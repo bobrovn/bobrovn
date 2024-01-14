@@ -44,10 +44,6 @@
 </div>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nbobrovv&theme=algolia&background=000000)](https://git.io/streak-stats)
-
----
 <div id='snake'>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   </div>
